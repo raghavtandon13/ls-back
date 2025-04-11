@@ -1,0 +1,15 @@
+node_modules/
+dist/
+uploads/
+*.log
+target/
+dist/
+.idea/
+package-lock.json
+.env
+curls/
+ecosystem.config.js
+.cache/
+bun.lockb
+*.csv
+*.txt
