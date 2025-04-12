@@ -10,7 +10,7 @@ router.get("/", function (_req, res, _next) {
 router.get("/version", function (_req, res, _next) {
     res.status(200).json({
         type: "success",
-        message: "07-apr-2025",
+        message: "12-apr-2025",
     });
 });
 
